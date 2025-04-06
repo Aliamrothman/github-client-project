@@ -1,0 +1,24 @@
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  color: #222;
+  font-size: 2.5rem;
+}
+
+.loading {
+  font-style: italic;
+  color: #555;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
